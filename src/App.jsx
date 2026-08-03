@@ -2,6 +2,7 @@ import { useState, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
 import confetti from "canvas-confetti";
 import "./App.css";
+import butterfly from "./assets/blue-butterfly.png";
 
 import Confetti from "react-confetti";
 import { useWindowSize } from "@react-hook/window-size";
